@@ -20,3 +20,4 @@ Birmingham 400
 Bristol 400
 London 300
 END OF INPUT
+
